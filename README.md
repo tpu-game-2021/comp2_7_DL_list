@@ -7,8 +7,7 @@
 実装して、ユニットテストが通るようにしてください。
 
 [![MS Build and Test](https://github.com/masacul/comp2_7_DL_list/actions/workflows/ms_test.yml/badge.svg)]
-(https://github.com/masacul/
-comp2_7_DL_list/actions/workflows/ms_test.yml)
+(https://github.com/masacul/comp2_7_DL_list/actions/workflows/ms_test.yml)
 
 （このファイルの上の行の[tpu-game-2021]の部分(2か所)を自分のアカウント名に修正してください）
 
