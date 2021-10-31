@@ -8,7 +8,7 @@
 
 [![MS Build and Test](https://github.com/beimihu514/comp2_7_DL_list/actions/workflows/ms_test.yml/badge.svg)](https://github.com/beimihu514/comp2_7_DL_list/actions/workflows/ms_test.yml)
 
-（このファイルの上の行の[tpu-game-2021]の部分(2か所)を自分のアカウント名に修正してくださ）
+（このファイルの上の行の[tpu-game-2021]の部分(2か所)を自分のアカウント名に修正してください。）
 
 
 # 進め方
